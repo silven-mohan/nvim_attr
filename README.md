@@ -21,3 +21,7 @@ No installation, root access, or package manager is required.
 
 Users should ensure that using such binaries complies with their institution’s
 policies.
+
+### About the executable:
+
+The executable works on **Linux x86_64**.
