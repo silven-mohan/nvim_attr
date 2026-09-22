@@ -107,6 +107,9 @@ This repository contains the installation scripts for ***neovim, clangd, lazynvi
 
 -----
 
+## Tool Demonstration:
+![Tool Demo](./images/demo.png)
+
 ## Attribution:
 
 This project is inspired by and references the Neovim, clangd, lazynvim projects:
@@ -121,3 +124,12 @@ This repository is not a fork and does not contain Neovim source code.
 ## Notice About What is included:
 
 This repository contains the installation scripts for the ***clangd, neovim, and lazynvim***. The main goal of this repo is to provide a guided installation for the neovim with **Autocomplete** and **Suggest** features.
+
+
+## License:
+
+Check [LICENSE](./LICENSE) for more details.
+
+----
+
+<p align = "center"> <strong>Make sure to Star 🌟 the repo.</strong> </p>
