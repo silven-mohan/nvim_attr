@@ -9,7 +9,7 @@ wget https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64
 chmod u+x nvim-linux-x86_64.appimage
 
 ### Create a system wide bin file:
-mkdir -p ~/.local/bin/nvim
+mkdir -p ~/.local/bin
 
 ### Move nvim appimage to bin:
 mv nvim-linux-x86_64.appimage ~/.local/bin/nvim
