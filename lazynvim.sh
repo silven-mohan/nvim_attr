@@ -4,7 +4,7 @@
 
 
 ### Install lazynvim:
-git clone --filter=blob:none https://github.com/folke/lazy.nvim.git ~/.local/share/nvim/lazy.nvim
+git clone --filter=blob:none https://github.com/folke/lazy.nvim.git ~/.local/share/nvim/lazy/lazy.nvim
 
 ### Create the config file for nvim:
 mkdir -p ~/.config/nvim
