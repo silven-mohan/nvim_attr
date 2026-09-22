@@ -3,10 +3,10 @@
 ## This script installs neovim from the github releases:
 
 ### Download the .appimage file:
-wget https://github.com/neovim/neovim/releases/latest/downloads/nvim-linux-x86_64.appimage
+wget https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64.appimage
 
 ### Give execute permission for the user:
-chmod u +x nvim-linux-x86_64.appimage
+chmod u+x nvim-linux-x86_64.appimage
 
 ### Create a system wide bin file:
 mkdir -p ~/.local/bin/nvim

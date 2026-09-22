@@ -33,7 +33,7 @@ This repository contains the installation scripts for ***neovim, clangd, lazynvi
 3. Add, the executable path to the `bashrc`:
 
     ```bash
-    echo export PATH = "$HOME/clangd-22.1.6/bin:$PATH" >> ~/.bashrc
+    echo export PATH="$HOME/clangd-22.1.6/bin:$PATH" >> ~/.bashrc
 
     source ~/.bashrc
     ```
@@ -62,7 +62,7 @@ This repository contains the installation scripts for ***neovim, clangd, lazynvi
 3. Add, the executable path to the `bashrc`:
 
     ```bash
-    echo export PATH = "$HOME/.local/bin:$PATH" >> ~/.bashrc
+    echo export PATH="$HOME/.local/bin:$PATH" >> ~/.bashrc
 
     source ~/.bashrc
     ```
